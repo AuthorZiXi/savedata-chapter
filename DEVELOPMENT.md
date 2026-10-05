@@ -19,6 +19,8 @@
 
 随便一提，打包出错得重新编译，比较费时间。
 
+微软商店打包请参考[这里](https://huayemao.run/posts/337)
+
 ## 打包产物
 
 `src-tauri/target/release/bundle/` 下有 nsis 和 msi 两个安装包。
