@@ -28,13 +28,16 @@ SaveData Chapter 是一个做管理存档和分章的工具（面向 Win 上的 
 
 ## 下载
 
-从 [Releases](https://github.com/AuthorZiXi/savedata-chapter/releases) 下载
+微软商店里还能顺便预览更多哦。
+
+<a href="https://apps.microsoft.com/detail/9NSFZ98F5049?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
+
+或从 [Releases](https://github.com/AuthorZiXi/savedata-chapter/releases) 下载
 
 需要 Windows 10+ 与 WebView2
-
-## 截图
-
-<img src="preview.png" alt="预览图" width="250px"/>
 
 ---
 
